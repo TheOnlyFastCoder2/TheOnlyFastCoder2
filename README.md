@@ -5,6 +5,11 @@
 - 🔗 **[(Игра)-DynamicKeyBoarding](https://github.com/TheOnlyFastCoder2/DynamicKeyBoarding)**
 - 🔗 **[(Игра)-TrainerBrain](https://github.com/TheOnlyFastCoder2/TrainerBrain)**
 - 🔗 **[(Приложение)-TaskPlanner](https://github.com/TheOnlyFastCoder2/TaskPlanner)**
+- 🔗 **[(Игра)-Snake](https://github.com/TheOnlyFastCoder2/Snake)**
+  #### Обычная верстка
+  - 🔗 **[(Верстка)-OpenBomber](https://github.com/TheOnlyFastCoder2/OpenBomber)**
+  - 🔗 **[(Верстка)-Creative-Agency](https://github.com/TheOnlyFastCoder2/Creative-Agency)**
+
 ### Тестовые задания
 
 - 🔗 **[(Верстка/wp)-Посадил React на WordPress](https://github.com/TheOnlyFastCoder2/K_Telekom_OOO)**
