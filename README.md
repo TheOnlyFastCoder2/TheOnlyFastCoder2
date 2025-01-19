@@ -29,17 +29,21 @@
 - 🔗 **[(Приложение)-TaskPlanner](https://github.com/TheOnlyFastCoder2/TaskPlanner)**
 - 🔗 **[(Игра)-Snake](https://github.com/TheOnlyFastCoder2/Snake)**
 
-  #### Обычная верстка
-  
-  - 🔗 **[(Верстка)-OpenBomber](https://github.com/TheOnlyFastCoder2/OpenBomber)**
-  - 🔗 **[(Верстка)-Creative-Agency](https://github.com/TheOnlyFastCoder2/Creative-Agency)**
+#### Обычная верстка
+
+- 🔗 **[(Верстка)-OpenBomber](https://github.com/TheOnlyFastCoder2/OpenBomber)**
+- 🔗 **[(Верстка)-Creative-Agency](https://github.com/TheOnlyFastCoder2/Creative-Agency)**
 
 ### Тестовые задания
 
 - 🔗 **[(Верстка/wp)-Посадил React на WordPress](https://github.com/TheOnlyFastCoder2/K_Telekom_OOO)**
 - 🔗 **[(Верстка)-Сделай собственный компоненты подход](https://github.com/TheOnlyFastCoder2/PurrwebDev)**
 - 🔗 **[(Приложение)-Сделал TodoList менеджер](https://github.com/TheOnlyFastCoder2/Idea_Platform)**
+
 <br/>
+
+[![telegram](https://img.shields.io/badge/-005b99?style=for-the-badge&logo=telegram&label=telegram&labelColor=005b99)](https://t.me/QtyPyDevox)
+
 <table>
     <tr>
         <th>React</th>
