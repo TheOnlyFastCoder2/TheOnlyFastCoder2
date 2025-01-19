@@ -1,4 +1,4 @@
-<!-- Языки -->
+### Языки 
 <table>
     <tr>
         <th>JavaScript</th>
@@ -30,11 +30,12 @@
     </tr>
 </table>
 
-<!-- UI Библиотеки -->
+### Языки 
 <table>
     <tr>
         <th>Material UI</th>
         <th>Chakra UI</th>
+        <th>Shadcn UI</th>
     </tr>
     <tr>
         <td align="center">
@@ -43,10 +44,13 @@
         <td align="center">
             <img src="https://raw.githubusercontent.com/TheOnlyFastCoder2/TheOnlyFastCoder2/refs/heads/main/assets/svg/chakra.svg" title="Chakra UI" alt="Chakra UI" width="40" height="40"/>
         </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/TheOnlyFastCoder2/TheOnlyFastCoder2/refs/heads/main/assets/svg/sahdcn.svg" title="Shadcn UI" alt="Shadcn UI" width="40" height="40"/>
+        </td>
     </tr>
 </table>
 
-<!-- Просто библиотеки -->
+### Библиотеки
 <table>
     <tr>
         <th>React</th>
