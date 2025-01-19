@@ -42,7 +42,7 @@
 
 <br/>
 
-[![telegram](https://img.shields.io/badge/-005b99?style=for-the-badge&logo=telegram&label=telegram&labelColor=005b99)](https://t.me/QtyPyDevox)
+[![telegram](https://raw.githubusercontent.com/TheOnlyFastCoder2/TheOnlyFastCoder2/refs/heads/main/assets/svg/telegram.svg)](https://t.me/QtyPyDevox)
 
 <table>
     <tr>
