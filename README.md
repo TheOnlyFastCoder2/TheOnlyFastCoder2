@@ -1,30 +1,18 @@
 
-```
-Пет-проекты
-```
+### Пет-проекты
 
 - 🔗 **[Игра - Hikers](https://github.com/TheOnlyFastCoder2/Hikers)**
-  - `[Конструктор, создание карт, сохранение, загрузка, настройка, очередность ходов, ловушки, бафы, бой, взаимодействие]`
-
 - 🔗 **[Игра - DynamicKeyBoarding](https://github.com/TheOnlyFastCoder2/DynamicKeyBoarding)**
-  - `[Скорость печати, уровни, здоровье, музыка, тренировка, геймификация]`
-
 - 🔗 **[Игра - TrainerBrain](https://github.com/TheOnlyFastCoder2/TrainerBrain)**
-  - `[Мини-игры, тренировка памяти, когнитивные навыки, Matrix, RadNum, Knight, уровень сложности, пространственное мышление]`
-
 - 🔗 **[Приложение - TaskPlanner](https://github.com/TheOnlyFastCoder2/TaskPlanner)**
-  - `[TodoList, календарь, автоматическая генерация, создание задач, редактирование, поиск, сохранение, загрузка]`
+### Тестовые задания
 
-```
-Тестовые задания
-```
 - 🔗 **[(Верстка/wp)-Посадил React на WordPress](https://github.com/TheOnlyFastCoder2/K_Telekom_OOO)**
 - 🔗 **[(Верстка)-Сделай собственный компоненты подход](https://github.com/TheOnlyFastCoder2/PurrwebDev)**
 - 🔗 **[(App)-Сделал TodoList менеджер](https://github.com/TheOnlyFastCoder2/Idea_Platform)**
 
-```
-Тестовые задания
-```
+
+
 <table>
     <tr>
         <th>React</th>
@@ -35,6 +23,9 @@
         <th>Mobx</th>
         <th>Git</th>
         <th>Prisma</th>
+        <th>Material UI</th>
+        <th>Chakra UI</th>
+        <th>Shadcn UI</th>
     </tr>
     <tr>
       <td align="center">
@@ -61,17 +52,7 @@
         <td align="center">
             <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/prisma/prisma-original.svg" title="Prisma" alt="Prisma" width="30" height="30"/>
         </td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <th>Material UI</th>
-        <th>Chakra UI</th>
-        <th>Shadcn UI</th>
-    </tr>
-    <tr>
-        <td align="center">
+      <td align="center">
             <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="30" height="40"/>
         </td>
         <td align="center">
@@ -82,3 +63,4 @@
         </td>
     </tr>
 </table>
+
