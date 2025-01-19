@@ -1,15 +1,15 @@
 
 ### Пет-проекты
 
-- 🔗 **[Игра - Hikers](https://github.com/TheOnlyFastCoder2/Hikers)**
-- 🔗 **[Игра - DynamicKeyBoarding](https://github.com/TheOnlyFastCoder2/DynamicKeyBoarding)**
-- 🔗 **[Игра - TrainerBrain](https://github.com/TheOnlyFastCoder2/TrainerBrain)**
-- 🔗 **[Приложение - TaskPlanner](https://github.com/TheOnlyFastCoder2/TaskPlanner)**
+- 🔗 **[(Игра)-Hikers](https://github.com/TheOnlyFastCoder2/Hikers)**
+- 🔗 **[(Игра)-DynamicKeyBoarding](https://github.com/TheOnlyFastCoder2/DynamicKeyBoarding)**
+- 🔗 **[(Игра)-TrainerBrain](https://github.com/TheOnlyFastCoder2/TrainerBrain)**
+- 🔗 **[(Приложение)-TaskPlanner](https://github.com/TheOnlyFastCoder2/TaskPlanner)**
 ### Тестовые задания
 
 - 🔗 **[(Верстка/wp)-Посадил React на WordPress](https://github.com/TheOnlyFastCoder2/K_Telekom_OOO)**
 - 🔗 **[(Верстка)-Сделай собственный компоненты подход](https://github.com/TheOnlyFastCoder2/PurrwebDev)**
-- 🔗 **[(App)-Сделал TodoList менеджер](https://github.com/TheOnlyFastCoder2/Idea_Platform)**
+- 🔗 **[(Приложение)-Сделал TodoList менеджер](https://github.com/TheOnlyFastCoder2/Idea_Platform)**
 
 
 
