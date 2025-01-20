@@ -37,9 +37,9 @@
 
 ### Тестовые задания
 
+- 🔗 **[(Приложение)-Сделал TodoList менеджер](https://github.com/TheOnlyFastCoder2/Idea_Platform)**
 - 🔗 **[(Верстка/wp)-Посадил React на WordPress](https://github.com/TheOnlyFastCoder2/K_Telekom_OOO)**
 - 🔗 **[(Верстка)-Сделай собственный компонентый подход](https://github.com/TheOnlyFastCoder2/PurrwebDev)**
-- 🔗 **[(Приложение)-Сделал TodoList менеджер](https://github.com/TheOnlyFastCoder2/Idea_Platform)**
 
 <br/>
 
