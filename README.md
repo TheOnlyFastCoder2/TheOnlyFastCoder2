@@ -23,6 +23,7 @@
 
 ### Пет-проекты
 
+- 🔗 **[(Приложение)-Blog](https://github.com/TheOnlyFastCoder2/Blog)**
 - 🔗 **[(Игра)-Hikers](https://github.com/TheOnlyFastCoder2/Hikers)**
 - 🔗 **[(Игра)-DynamicKeyBoarding](https://github.com/TheOnlyFastCoder2/DynamicKeyBoarding)**
 - 🔗 **[(Игра)-TrainerBrain](https://github.com/TheOnlyFastCoder2/TrainerBrain)**
