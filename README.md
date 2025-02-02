@@ -10,7 +10,7 @@
 - **Frontend**: React, Svelte
 - **Backend**: ElysiaJS
 - **Язык программирования**: TypeScript
-- **Управление состоянием**: Redux, MobX, Zustand
+- **Управление состоянием**: Redux, MobX, Zustand, TanStack-ReactQuery
 - **Контроль версий**: Git
 - **UI-библиотеки**: Material UI, Chakra UI, Shadcn UI
 
