@@ -25,6 +25,8 @@
 Реактивное хранилище с поддержкой динамических путей, middleware и undo/redo.
 - [**@qtpy/state-management-react**](https://www.npmjs.com/package/@qtpy/state-management-react):  
 Управление состоянием в React с помощью хуков и реактивного хранилища на основе [**@qtpy/state-management-observable**](https://www.npmjs.com/package/@qtpy/state-management-observable).
+- [**@qtpy/react-stm-form**](https://www.npmjs.com/package/@qtpy/react-stm-form):  
+Инструмент для создания реактивных форм в React с TypeScript, поддержкой полей и валидации на основе [**@qtpy/state-management-react**](https://www.npmjs.com/package/@qtpy/state-management-react).
 - [**@qtpy/use-popup**](https://www.npmjs.com/package/@qtpy/use-popup):  
 Хук для управления модальными окнами в React с настройкой поведения и внешнего вида.
 - [**@qtpy/route-guard**](https://www.npmjs.com/package/@qtpy/route-guard):  
@@ -37,8 +39,6 @@
 Хук для управления набором ссылок на элементы или компоненты в React.
 - [**@qtpy/use-scroll-fx**](https://www.npmjs.com/package/@qtpy/use-scroll-fx):  
 Хук для управления эффектами скролла в React с настройкой анимаций.
-- [**@qtpy/react-stm-form**](https://www.npmjs.com/package/@qtpy/react-stm-form):  
-Инструмент для создания форм в React с TypeScript, поддержкой полей и валидации.
 - [**@qtpy/use-animation-frame**](https://www.npmjs.com/package/@qtpy/use-animation-frame):  
 Хук для запуска анимаций в React с использованием requestAnimationFrame.
 
