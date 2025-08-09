@@ -21,12 +21,12 @@
 Давайте создавать что-то удивительное вместе! 🚀
 
 ### [Мои библиотеки](https://github.com/TheOnlyFastCoder2/QtPy-library)
-- [**@qtpy/state-management-react**](https://www.npmjs.com/package/@qtpy/state-management-react):  
-Управление состоянием в React с помощью хуков и реактивного хранилища на основе Proxy.
-- [**@qtpy/use-popup**](https://www.npmjs.com/package/@qtpy/use-popup):  
-Хук для управления модальными окнами в React с настройкой поведения и внешнего вида.
 - [**@qtpy/state-management-observable**](https://www.npmjs.com/package/@qtpy/state-management-observable):  
 Реактивное хранилище с поддержкой динамических путей, middleware и undo/redo.
+- [**@qtpy/state-management-react**](https://www.npmjs.com/package/@qtpy/state-management-react):  
+Управление состоянием в React с помощью хуков и реактивного хранилища на основе [**@qtpy/state-management-observable**](https://www.npmjs.com/package/@qtpy/state-management-observable).
+- [**@qtpy/use-popup**](https://www.npmjs.com/package/@qtpy/use-popup):  
+Хук для управления модальными окнами в React с настройкой поведения и внешнего вида.
 - [**@qtpy/route-guard**](https://www.npmjs.com/package/@qtpy/route-guard):  
 Компонент для условного рендеринга в React в зависимости от маршрутов (react-router).
 - [**@qtpy/use-breakpoints**](https://www.npmjs.com/package/@qtpy/use-breakpoints):  
