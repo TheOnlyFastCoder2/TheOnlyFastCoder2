@@ -50,12 +50,6 @@
 - 🔗 **[(Игра)-TrainerBrain](https://github.com/TheOnlyFastCoder2/TrainerBrain)**
 - 🔗 **[(Приложение)-TaskPlanner](https://github.com/TheOnlyFastCoder2/TaskPlanner)**
 - 🔗 **[(Игра)-Snake](https://github.com/TheOnlyFastCoder2/Snake)**
-
-#### Обычная верстка
-
-- 🔗 **[(Верстка)-OpenBomber](https://github.com/TheOnlyFastCoder2/OpenBomber)**
-- 🔗 **[(Верстка)-Creative-Agency](https://github.com/TheOnlyFastCoder2/Creative-Agency)**
-
 <br/>
 
 [![telegram](https://raw.githubusercontent.com/TheOnlyFastCoder2/TheOnlyFastCoder2/refs/heads/main/assets/svg/telegram.svg)](https://t.me/QtyPyDevox)
